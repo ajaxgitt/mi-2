@@ -1,4 +1,5 @@
 # primer-repositorio
 
-mi primer repositorio desde vsc
-segunda configuracion
+mi primer repositorio 
+
+actualisando informacion desde github
